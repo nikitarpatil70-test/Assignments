@@ -20,7 +20,7 @@ console.log(orderPlaced.status);
 
 // 3. Person's phone number: "123-456-7890"
 
-let person : number =  1234567890;
+let person : string =  "123-456-7890";
 console.log(`person's phone number : ${person}`);
 
 //4. Amount of money in a customer's bank account: 1000.50 
@@ -78,7 +78,7 @@ console.log("Current Year:" +(currentDate));
 
 // 11.Number of followers on a social media platform: 1,000,000 
 
-let followers: number= 1000000;
+let followers: string= "1,000,000";
 console.log(`Number of followers on a social media platform: ${followers}`);
 
 //12.Rating of a movie: 7.5
@@ -101,6 +101,8 @@ let employees: number = 500;
 console.log(`Number of employees in a company: ${employees}`);
 
 // 16.Time of an event: 2:30 PM 
+let time: string = "2.30 PM";
+console.log(`Time of an event: ${time}`);
 
 //console.log("Time o
 
